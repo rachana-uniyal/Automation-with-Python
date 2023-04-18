@@ -13,6 +13,8 @@ Python, Linode, Docker, Linux
 - Write a Python script that automatically restarts the application & server when the application is down
 
 
+
+
 ## Project: Health Check, EC2 Status Checks
 
 ### Technologies used:
