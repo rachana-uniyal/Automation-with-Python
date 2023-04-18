@@ -1,5 +1,4 @@
-## Project:
-Website Monitoring and Recovery
+## Project: Website Monitoring and Recovery
 
 ## Technologies used:
 Python, Linode, Docker, Linux
