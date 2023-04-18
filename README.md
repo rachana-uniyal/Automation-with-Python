@@ -1,6 +1,6 @@
 # Automation-with-Python
 
-## Project: Website Monitoring and Recovery
+## 1. Website Monitoring and Recovery
 
 ### Technologies used:
 Python, Linode, Docker, Linux
@@ -15,7 +15,7 @@ Python, Linode, Docker, Linux
 
 
 
-## Project: Health Check, EC2 Status Checks
+## 2. Health Check: EC2 Status Checks
 
 ### Technologies used:
 Python, Boto3, AWS, Terraform
@@ -28,7 +28,7 @@ Python, Boto3, AWS, Terraform
 
 
 
-## Project: Automate displaying EKS cluster information
+## 3. Automate displaying EKS cluster information
 
 ### Technologies used:
 Python, Boto3, AWSEKS
@@ -38,7 +38,7 @@ Python, Boto3, AWSEKS
 
 
 
-## Project: Automate configuring EC2 Server Instances
+## 4. Automate configuring EC2 Server Instances
 
 ### Technologies used:
 Python, Boto3, AWS
@@ -48,7 +48,7 @@ Python, Boto3, AWS
 
 
 
-## Project: Data Backup & Restore
+## 5. Data Backup & Restore
 
 ### Technologies used:
 Python, Boto3, AWS
